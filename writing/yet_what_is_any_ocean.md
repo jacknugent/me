@@ -38,7 +38,9 @@ Season 4, Episode 8 of _Succession_ follows the Roys and their conservative TV s
 In Bezos-like fashion, the billionaire-owners want to make a different call than "Decision Desk Darwin,"
 
 [^1] https://www.washingtonpost.com/opinions/2024/10/25/washington-post-endorsement/
+
 [^2] https://davidchicopham.com/posts/the-expensive-education-of-jeff-bezos/
+
 [^3] https://www.reddit.com/r/washingtondc/comments/1gebkeg/over_200000_subscribers_flee_washington_post/lu8egd5/
 
 Reddit:
