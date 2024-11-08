@@ -1,16 +1,16 @@
 # A Lesbian Couple That Doesn‘t Have Sex Anymore
 
-By Jack Nugent - 11.08.2024
+---
+
+_This piece originally appeared as a [Letterboxd review](https://letterboxd.com/jacknugent27/film/frances-ha/1/) of Francis Ha (2012)._
 
 ---
 
-_This piece originally appeared as a [Letterboxd review](https://letterboxd.com/jacknugent27/film/frances-ha/1/) of Francis Ha (2012) on Dec 03, 2023_
-
----
+11.08.2024
 
 Why couldn’t I sleep, playing this movie over-and-over in my head? I watched this movie for the first time this weekend, and there I was last night, at 4:49am, watching it again.
 
-The truth is, my original review<sup>[[1]](#footnotes)</sup> barely scratches the surface of how much I related to this story. Because two things happened in my life yesterday, the day I first watched the movie _Frances Ha_ (2012):
+The truth is, my original review<sup>[1]</sup> barely scratches the surface of how much I related to this story. Because two things happened in my life yesterday, the day I first watched the movie _Frances Ha_ (2012):
 
 - I met my ex-girlfriend (of five years)'s girlfriend (of almost two years).
 - For Christmas, I asked my mom for “a compact and cute tea set.” She thought I meant two gifts, one being “a compact,” i.e. makeup, and made fun of the idea (“Ok, cool, what’s next?”).
@@ -27,13 +27,13 @@ This line reverberates throughout the movie because it’s a reminder that the r
 
 Co-writer Greta Gerwig has continued to explore non-traditional female love stories in her work since _Frances Ha_. In her directorial debut _Ladybird_, Gerwig centers a different but equally unexplored relationship, this time, she says, “a love story of a mother and daughter.”
 
-And, like her character in _Frances Ha_, Gerwig herself struggled to describe the mother-daughter intimacy explored in _Ladybird_, simply because that kind of female dynamic had been hitherto overlooked. In her words<sup>[[2]](#footnotes)</sup>:
+And, like her character in _Frances Ha_, Gerwig herself struggled to describe the mother-daughter intimacy explored in _Ladybird_, simply because that kind of female dynamic had been hitherto overlooked. In her words<sup>[2]</sup>:
 
     I remember every man I talked to who was raised with sisters or who had a daughter said “I know this. That’s my wife and my daughter, or that’s my sister and my mom” and guys who didn’t, they said “do woman fight like this?” I was like, oh, you’ve never seen this because why would you know that this is what this relationship is?
 
 So in _Frances Ha_, Frances uses Queer (specifically, Lesbian) language to attempt to describe the love she experiences with Sophie, one which, perhaps, knows no cinematic equivalent. In a way, the “lesbian couple” sentiment, then, makes explicit the once-subtextual homoeroticism of past movies centering on same-sex bonds.
 
-Here, we see what gay author Dan Savage calls the “cultural cross-pollination between gay life and straight life,” where Frances, delightfully, eschews heteronormative language in favor of Queerness<sup>[[3]](#footnotes)</sup>:
+Here, we see what gay author Dan Savage calls the “cultural cross-pollination between gay life and straight life,” where Frances, delightfully, eschews heteronormative language in favor of Queerness<sup>[3]</sup>:
 
     Things we thought of as particular to gay communities, gay subcultures, gay life were not choices gay people were making, and a lot of things that we associated with straight people, straight life, were not choices that straight people were freely making, and that, once people were more free to make their own choices, a lot of gay people acted a lot more straight, and a lot of straight people began to act a lot more gay.
 
@@ -47,7 +47,7 @@ I feel teased. I feel robbed. A part of me thinks “if only it were so simple.�
 
 I dated a Lesbian for five years. I am a man (more on that later), and I am not straight (more on that later).
 
-Last week, my ex-girlfriend (let’s call her Amy) and I joked that Shelley Duvall’s description of filming _The Shining (1980)_ captures our experience of dating for five years<sup>[[4]](#footnotes)</sup>:
+Last week, my ex-girlfriend (let’s call her Amy) and I joked that Shelley Duvall’s description of filming _The Shining (1980)_ captures our experience of dating for five years<sup>[4]</sup>:
 
     “Almost unbearable,” she said, matter-of-factly, “But from other points of view, really very nice, I suppose.”
 
