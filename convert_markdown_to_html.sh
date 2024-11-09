@@ -37,10 +37,6 @@ find . -name "*.md" ! -name "README.md" | while read -r markdown_file; do
     <meta name="viewport" content="width=device-width" />
     <link rel="stylesheet" href="${css_path}" />
     <title>${title:-"Untitled"}</title>
-    <script
-      type="module"
-      src="https://cdn.jsdelivr.net/npm/zero-md@3?register"
-    ></script>
   </head>
 
   <body>

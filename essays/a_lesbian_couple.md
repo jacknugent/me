@@ -19,7 +19,7 @@ What do these events have in common, and why did they keep bringing me back to t
 
 ## Frances Ha is Straight, But Only Kind Of
 
-An idea that felt out-of-scope of my original review is that Frances Ha teases itself as a Queer story, yet bars itself from going too far:
+An idea that felt out-of-scope of my original review is that _Frances Ha_ teases itself as a Queer story, yet bars itself from going too far:
 
     We are like a lesbian couple that doesn’t have sex anymore.
 
@@ -51,7 +51,7 @@ Last week, my ex-girlfriend (let’s call her Amy) and I joked that Shelley Duva
 
     “Almost unbearable,” she said, matter-of-factly, “But from other points of view, really very nice, I suppose.”
 
-It’s difficult to put into words. Months after our breakup, I got called on stage at a drag brunch in Hell’s Kitchen, and I told them I’m newly single, because my ex is “a Lesbian, now.” Needless to say, the Queen ate me alive, “Oh, so being Lesbian is a _new choice_ for her, then?” I didn’t have the strength to admit that my ex had always been a Lesbian, incompatible with me as a life partner. And, even still, I struggle with a deeper, unexplored truth, that perhaps we were incompatible for other reasons, not just because she’s gay (Frances Ha’s “undateable” dilemma looms overhead).
+It’s difficult to put into words. Months after our breakup, I got called on stage at a drag brunch in Hell’s Kitchen, and I told them I’m newly single, because my ex is “a Lesbian, now.” Needless to say, the Queen ate me alive, “Oh, so being Lesbian is a _new choice_ for her, then?” I didn’t have the strength to admit that my ex had always been a Lesbian, incompatible with me as a life partner. And, even still, I struggle with a deeper, unexplored truth, that perhaps we were incompatible for other reasons, not just because she’s gay (Frances’ “undateable” dilemma looms overhead).
 
 In parallel, I have my own sexual and gender awakening that my mom doesn’t understand. Like Gerwig pitching a mother-daughter love story, my mom doesn’t have the vocabulary to even know what to ask me. She never had her _Frances Ha_, her gay-straight cultural cross-pollination. I don’t strictly date men or women. I move between New York City neighborhoods, so to speak. In some spaces, too straight. In some, too gay. So when my mom thinks I asked for makeup, she seems equal parts belittling, confused, and worried, because we both know I like to play with my gender expression (not that she knows this term). One of the many fraught love stories between mother and daughter.
 
@@ -92,7 +92,7 @@ And in _Frances Ha_, Frances has this exact moment with Sophie, her lesbian love
 
 ## I Am Gay, But Only Kind Of
 
-Frances Ha can’t escape my head because I see in it the beginnings of what I felt in my moment with Amy. But only the beginnings. My relationship with Amy is Queer, so it is infinitely more complicated. I’ve gotten to fall in love with the same person twice. Once as young gay lovers navigating what we need in a relationship, and again a second time, finding a new love that is not sexual, yet much more meaningful. Sometimes, sex gets in the way.
+_Frances Ha_ can’t escape my head because I see in it the beginnings of what I felt in my moment with Amy. But only the beginnings. My relationship with Amy is Queer, so it is infinitely more complicated. I’ve gotten to fall in love with the same person twice. Once as young gay lovers navigating what we need in a relationship, and again a second time, finding a new love that is not sexual, yet much more meaningful. Sometimes, sex gets in the way.
 
 How lucky I am that I can be Queer. That I didn’t have to lose Amy, that we have space for our relationship to evolve.
 
