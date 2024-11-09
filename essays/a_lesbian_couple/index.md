@@ -2,7 +2,7 @@
 
 ---
 
-_This piece originally appeared as a [Letterboxd review](https://letterboxd.com/jacknugent27/film/frances-ha/1/) of Francis Ha (2012). on Dec 3, 2023._
+_This piece originally appeared as a [Letterboxd review](https://letterboxd.com/jacknugent27/film/frances-ha/1/) of Francis Ha (2012) on Dec 3, 2023._
 
 ---
 
