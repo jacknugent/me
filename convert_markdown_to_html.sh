@@ -25,6 +25,9 @@ find . -name "*.md" ! -name "README.md" | while read -r markdown_file; do
   # Extract the first header of the markdown for the <title>
   title=$(grep -m 1 '^# ' "$markdown_file" | sed 's/^# //')
 
+  # Convert title to a valid CSS class name (lowercase and underscores)
+  body_class=$(basename "${markdown_file%.md}" | tr '[:upper:]' '[:lower:]' | tr ' ' '_')
+
   # Convert markdown to HTML content (body only)
   html_content=$(pandoc "$markdown_file" -f markdown -t html)
 
@@ -39,7 +42,7 @@ find . -name "*.md" ! -name "README.md" | while read -r markdown_file; do
     <title>${title:-"Untitled"}</title>
   </head>
 
-  <body>
+  <body class="${body_class}">
     <div class="markdown">
       ${html_content}
     </div>
