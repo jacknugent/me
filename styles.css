@@ -130,13 +130,6 @@ body.resume li {
   margin-bottom: 0.5em;
 }
 
-/* Contact info styling */
-body.resume hr {
-  border: none;
-  border-top: 1px solid #ccc;
-  margin: 1em 0;
-}
-
 body.resume strong {
   font-weight: bold;
 }
