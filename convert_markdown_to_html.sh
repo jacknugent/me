@@ -34,7 +34,7 @@ find . -name "*.md" ! -name "README.md" | while read -r markdown_file; do
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="${css_path}" />
     <title>${title:-"Untitled"}</title>
   </head>
