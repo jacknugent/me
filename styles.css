@@ -18,6 +18,11 @@ body {
   margin-bottom: 0;
 }
 
+.subheader {
+  max-width: 800px;
+  padding-bottom: 1rem;
+}
+
 /* Links */
 a {
   color: #0f89a7;
