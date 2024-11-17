@@ -99,21 +99,28 @@ body.resume h3 {
 
 body.resume h1 {
   font-size: 2.5em;
-  margin-bottom: 0.5em;
+  margin-bottom: 0;
   margin-top: 0;
 }
 
 body.resume h2 {
   font-size: 2em;
-  padding-bottom: 0.2em;
-  margin-top: 1.5em;
-  margin-bottom: 0.5em;
+  padding-bottom: 0;
+  margin-top: 0.5rem;
+  margin-bottom: 0;
 }
 
 body.resume h3 {
   font-size: 1.5em;
-  margin-top: 1em;
+  margin-top: .5rem;
   margin-bottom: 0.5em;
+}
+
+body.resume hr {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  height: .1rem;
+  background-color: #01021e57;
 }
 
 /* Paragraphs and lists */
