@@ -133,3 +133,13 @@ body.resume li {
 body.resume strong {
   font-weight: bold;
 }
+
+.resume-subheader {
+  display: flex;
+}
+
+.resume-subheader-item {
+  padding-right: 2rem;
+}
+
+/* END RESUME styles */

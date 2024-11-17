@@ -1,10 +1,21 @@
 # Jack Nugent
 
+<div class="resume-subheader">
+<div class="resume-subheader-item">
 **Email:** jacknugent27@gmail.com  
-**Phone:** (804) 833-6200  
+</div>
+<div class="resume-subheader-item">
+**Phone:** (804) 833-6200
+</div>
+<div class="resume-subheader-item">
 **Location:** Washington, DC
+</div>
+</div>
+<hr />
 
 ## WORK EXPERIENCE, 6+ Years
+
+<hr />
 
 ### The Washington Post
 
@@ -12,9 +23,9 @@
 **June 2022 – Present**  
 Washington, DC
 
-- As a Senior Engineer, I implement major architectural changes across our tech stack.
-  - Rewrote large-scale Node.js backend for sending millions of daily, personalized emails. Reduced code-base by 25% and integrated into a modernized AWS solution for email sending.
-  - Introduced best-practices in Java and React apps including Dependency Injection, hooks, and Encapsulation.
+- As a Senior Engineer, I implement major architectural changes across our in-house email-sending architecture:
+  - I rewrote our Node.js backend for sending millions of daily, personalized emails. I reduced code-base by 25% and integrated into a new, modernized AWS solution for email sending that saved us 100k a year.
+  - Introduced best-practices across various Java and React apps, adding Dependency Injection, hooks, and Encapsulation.
 - Advocate for new technologies: rewrote analytics processing tool from constantly running instance to serverless Lambda, reducing complexity and cost.
 - Lead team process changes: added code review requirements, simplified release process, and challenged existing approaches.
 - Identify and resolve high-impact challenges. Right-sized EC2 instances to save 60k a year. Automated deployments to shorten release risk.
@@ -42,6 +53,8 @@ Richmond, VA
 
 ## EDUCATION
 
+<hr />
+
 **University of Virginia**  
 BA, Computer Science  
 **May 2018**  
@@ -52,5 +65,7 @@ Charlottesville, VA
 - First Year Players (theater group), Chess Club social chair, movie analysis YouTube channel with over 900,000 subscribers.
 
 ## SKILLS
+
+<hr />
 
 Typescript, React JS, Java, .NET, MongoDB, AWS, Node.js, Docker, GraphQL, C#, Python
