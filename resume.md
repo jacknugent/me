@@ -24,7 +24,7 @@
 *Washington, DC*
 </div>
 
-- As a Senior Engineer, I implement major architectural changes across our in-house email-sending provider:
+- I implement major architectural changes across our in-house email-sending provider:
   - Rewrote our Node.js backend for processing 7M+ personalized, daily emails. I reduced code-base by 25% and integrated into a modernized AWS solution that saved us 100k a year.
   - Introduce best-practices across various Java and React apps, adding Dependency Injection, hooks, and Encapsulation.
 - Advocate for new technologies: rewrote analytics processing tool into serverless solution, reducing complexity and cost.
