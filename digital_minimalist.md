@@ -32,10 +32,15 @@ On a more basic level, I feel freer having less of a digital footprint.
 
 ## Keeping Reddit and YouTube?
 
-## Buying a Flip Phone and Giving Up
+I use SelfControl to block Reddit/YouTube whenever I feel like I'm on them too much. My compromises:
+
+- Use [old reddit](https://old.reddit.com/) layout
+- [Delete my watch history on YouTube](https://support.google.com/youtubemusic/answer/6364666?hl=en), which completely disables recommendations.
 
 ## Making My Mac Boring
 
 ## Making My IPhone Boring
 
 ## The Grayscale Connundrum
+
+## Buying a Flip Phone and Giving Up
