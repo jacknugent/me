@@ -2,7 +2,7 @@
 
 <div class="resume-subheader">
 <div class="resume-subheader-item">
-**Email:** jacknugent27@gmail.com  
+**Email:** [jacknugent27@gmail.com](mailto:jacknugent27@gmail.com)
 </div>
 <div class="resume-subheader-item">
 **Phone:** (804) 833-6200
@@ -24,12 +24,12 @@
 *Washington, DC*
 </div>
 
-- I implement major architectural changes across our in-house email-sending provider:
-  - Rewrote our Node.js backend for processing 7M+ personalized, daily emails. I reduced code-base by 25% and integrated into a modernized AWS solution that saved us 100k a year.
-  - Introduce best-practices across various Java and React apps, adding Dependency Injection, hooks, and Encapsulation.
-- Advocate for new technologies: rewrote analytics processing tool into serverless solution, reducing complexity and cost.
-- Lead team process changes: added code review requirements, simplified release process, and challenged existing approaches.
-- Identify and resolve high-impact challenges. Right-sized EC2 instances to save 60k a year. Automated deployments to improve velocity.
+- **Architected scalable solutions** for our in-house email-sending provider, processing 7M+ daily emails:
+  - **Revamped Node.js backend**, reducing codebase by 25% and integrating with AWS, saving $100k annually.
+  - **Standardized best practices** across Java and React apps, implementing Dependency Injection, hooks, and encapsulation.
+- **Optimized infrastructure**, right-sizing EC2 instances to save $60k annually and automating deployments for improved velocity.
+- **Introduced serverless architecture**, modernizing analytics tools to reduce complexity and costs.
+- **Led process improvements**, establishing code review protocols, streamlining release workflows, and driving consensus for innovation.
 
 <div class="experience-subheader">
 **Meso Scale Diagnostics**
