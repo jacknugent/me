@@ -1,8 +1,8 @@
 # Piano Recital
 
-On 11/23/2024, I went to a piano recital hosted by my piano teacher, Andrew. I was the only adult.
+On 11/23/2024, I performed at a piano recital hosted by my piano teacher, Andrew. I was the only adult performer.
 
-View my performance [here](IMG_6518.mp4). A few mistakes, but I am proud that I did it!
+View my performance [here](IMG_6518.mp4). I am proud that I did it, mistakes and all!
 
 Here's what Andrew said after I finished:
 
