@@ -1,8 +1,9 @@
 # How To Organize Your Life
 
-**or·gan·ize** _/ˈôrɡəˌnīz/ v._ 1. arrange into a structured whole; order.
+    or·gan·ize /ˈôrɡəˌnīz/ v.
+    1. arrange into a structured whole; order.
 
-![6 cool neighbors posing with our hallway christmas tree](IMG_0776.jpeg)
+![Neighbors posing with our hallway christmas tree](IMG_0776.jpeg)
 
 ## Step 1: Organize Your Apartment
 
@@ -10,7 +11,7 @@ I have the coolest neighbors in D.C – so cool that we have our own communial c
 
 The decortaing event was a sight to behold – we opened our doors, played music, and shared snacks while we took turns with lights and ornaments in our hot, narrow hallway.
 
-There are several layers of reasoning to explain why I have never seen, or even heard of, another apartment where the residents decorate their hallways together. Here is the most literal, from our lease:
+There are several layers of reasoning to explain why I have never seen, or even heard of, another apartment where the residents decorate their hallways together. The simplest explanation comes from the most obvious place: our lease
 
     The Tenant shall not ... permit any act by a Tenant’s family or guests which will unreasonably interfere with the rights, comforts, or conveniences of other occupants of the building.
 
@@ -18,9 +19,11 @@ This clause, quite reasonably, protects Tenants from unilaterally making an apar
 
 I‘m sure most residents would enjoy communally decorated hallways. But almost none have them, because A) Tenants do not know their Neighbors well enough to casually plan decorations, and B) who is going to go door-knocking for something so trivial?
 
-The decorations themselves are not a big deal. The big deal is what their rarity represents: our world is not built for community. Consider the description of apartments in _Happy City_:
+The decorations themselves are not a big deal. The big deal is what their rarity represents: our world not built for communal actions. The challenges exist not just in legal agreeents, but in physical design. In _Happy City_, author Charles Montgomery discusses how conventional apartment layouts aren't conducive to casual chatter:
 
-    description here
+    The problem was that the long-corridor design made it almost impossible for them to choose whom they bumped into and how often. There was no in-between space. You were either in your room or out in the public zone of the hallway.
+
+We've all felt this – the awkward, timeboxed elevator ride, a means of transporation, not socializing. Small-talk at best, assuming no headphones in use, and even then, small-talk about what?
 
 In summary – and at the risk of hyperbole – decorating an apartment hallway is a radical reimaging of the built environment, overcoming legal, physical, and cultural hurdles
 
