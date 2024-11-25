@@ -23,9 +23,11 @@ The decorations themselves are not a big deal. The big deal is what their rarity
 
     The problem was that the long-corridor design made it almost impossible for them to choose whom they bumped into and how often. There was no in-between space. You were either in your room or out in the public zone of the hallway.
 
-We've all felt this – the awkward, timeboxed elevator ride, a means of transporation, not socializing. Small-talk at best, assuming no headphones in use, and even then, small-talk about what?
+We've all felt this – the awkward, timeboxed elevator ride, a means of transporation not for socializing. Small-talk at best, assuming no headphones in use, and even then, small-talk about what? The end result is recognition, maybe a hello, but nothing more.
 
-In summary – and at the risk of hyperbole – decorating an apartment hallway is a radical reimaging of the built environment, overcoming legal, physical, and cultural hurdles
+To put it another way, we are not Neighbors, but Tenants. Instead of people living next door to other people, we are people occupying land from a landlord.
+
+So on the surface, hallway decorations are no big deal. But taking it apart, it's kind of a miracle. Decorating an apartment hallway – at the risk of hyperbole – is a radical reimaging of the built environment, overcoming legal, physical, and cultural hurdles to do so.
 
 So how did we do it? We organized.
 
