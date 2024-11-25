@@ -27,7 +27,7 @@ We've all felt this – the awkward, timeboxed elevator ride, a means of transpo
 
 To put it another way, we are not Neighbors, but Tenants. Instead of people living next door to other people, we are people occupying land from a landlord.
 
-So on the surface, hallway decorations are no big deal. But taking it apart, it's kind of a miracle. Decorating an apartment hallway – at the risk of hyperbole – is a radical reimaging of the built environment, overcoming legal, physical, and cultural hurdles to do so.
+So on the surface, hallway decorations are no big deal. But taking it apart, it's kind of a miracle. Decorating an apartment hallway is a radical reimaging of the built environment, overcoming legal, physical, and cultural hurdles to do so.
 
 So how did we do it? We organized.
 
@@ -40,3 +40,5 @@ People support a union (decorating a hallway), but there are fewer unions than e
 ## Step 4: Organize Your Family
 
 ## Step 5: Repeat Steps 1 through 5
+
+# Footnotes
