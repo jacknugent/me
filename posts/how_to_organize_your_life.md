@@ -9,9 +9,9 @@
 
 I have the coolest neighbors in D.C – so cool that we have our own communial christmas tree in our hallway, along with future plans to hang our neighbor Lloyd‘s paintings.
 
-The decortaing event was a sight to behold – we opened our doors, played music, and shared snacks while we took turns with lights and ornaments in our hot, narrow hallway.
+The decorating event was adorable – we opened our doors, played music, and shared snacks while we took turns with lights and ornaments in our hot, narrow hallway.
 
-There are several layers of reasoning to explain why I have never seen, or even heard of, another apartment where the residents decorate their hallways together. The simplest explanation comes from the most obvious place: our lease
+There are several layers of reasoning to explain why I have never seen, or even heard of, another apartment where the residents decorate their hallways together. The simplest explanation comes from the most obvious place: our lease.
 
     The Tenant shall not ... permit any act by a Tenant’s family or guests which will unreasonably interfere with the rights, comforts, or conveniences of other occupants of the building.
 
@@ -27,11 +27,15 @@ We've all felt this – the awkward, timeboxed elevator ride, a means of transpo
 
 To put it another way, we are not Neighbors, but Tenants. Instead of people living next door to other people, we are people occupying land from a landlord.
 
-So on the surface, hallway decorations are no big deal. But taking it apart, it's kind of a miracle. Decorating an apartment hallway is a radical reimaging of the built environment, overcoming legal, physical, and cultural hurdles to do so.
+So on the surface, hallway decorations are no big deal. But taking it apart, it's kind of a miracle. Decorating an apartment hallway is a small but radical reimaging of the built environment, overcoming legal, physical, and cultural hurdles to do so.
 
-So how did we do it? We organized.
+So how did we do it? In short, we organized.
+
+But to explain how six neighbors organized on a single floor, we have to look at how millions organized on a single island.
 
 ## Step 2: Organize Puerto Rico
+
+In November 2024, Congresswoman Alexandria Ocasio-Cortez
 
 ## Step 3: Organize Your Workplace
 
