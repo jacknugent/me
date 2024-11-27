@@ -25,7 +25,7 @@
 </div>
 
 - **Architected scalable solutions** for in-house email-sending provider, processing 7M+ daily emails:
-  - **Revamped Node.js backend**, reducing codebase by 25% and integrating with AWS, saving $100k annually.
+  - **Revamped Node.js email-personalization backend**, reducing codebase by 25% and integrating with AWS, saving $100k annually through new sending architecture.
   - **Standardized best practices** across Java and React apps, implementing Dependency Injection, hooks, and encapsulation.
 - **Optimized infrastructure**, right-sizing EC2 instances to save $60k annually and automating deployments for improved velocity.
 - **Introduced serverless architecture**, modernizing analytics tools to reduce complexity and costs.
