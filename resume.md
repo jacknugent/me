@@ -65,10 +65,6 @@
 *Charlottesville, VA*
 </div>
 
-- Academic honors each semester, TA for Introduction to Python class.
-- Studied abroad in Dublin, Ireland during spring 2017 semester (University College of Dublin).
-- First Year Players (theater group), Chess Club social chair, educational movie analysis YouTube channel with over 900,000 subscribers.
-
 ## SKILLS
 
 <hr />
