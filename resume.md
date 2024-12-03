@@ -68,7 +68,7 @@
 
 ## ACCOMPLISHMENTS
 
-- Creator of movie analysis YouTube channel with over 900,000 subscribers
+- Creator of movie analysis YouTube channel with over 900,000 subscribers.
 
 <hr />
 
