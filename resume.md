@@ -1,5 +1,7 @@
 # Jack Nugent
 
+<hr />
+
 <div class="resume-subheader">
 <div class="resume-subheader-item">
 **Email:** [jacknugent27@gmail.com](mailto:jacknugent27@gmail.com)
@@ -11,11 +13,10 @@
 **Location:** Washington, DC
 </div>
 </div>
+
 <hr />
 
 ## PROFESSIONAL EXPERIENCE, 6+ Years
-
-<hr />
 
 <div class="experience-subheader">
 **The Washington Post**
@@ -43,6 +44,15 @@
 - Added modern technologies including front-end only architecture, end-to-end JavaScript testing, and Docker containerizing.
 
 <div class="experience-subheader">
+**Climate Changemakers**
+**Volunteer Engineer **
+*July 2021 – June 2022*
+*Washington, DC*
+</div>
+
+- Rewrote Front-End for Climate Changemakers Act, an accessible way to conduct informed climate correspondence with your Members of Congress
+
+<div class="experience-subheader">
 **CapTech Consulting**
 **Software Engineer**
 *Aug. 2018 – May 2020*
@@ -54,9 +64,15 @@
 - Rewrote several websites including a recruiting website, state agency website, and payment tracking service.
 - Replaced monolithic WordPress solution with modernized Headless WordPress, Gatsby, GitLab solution.
 
-## EDUCATION
+<hr />
+
+## ACCOMPLISHMENTS
+
+- Creator of movie analysis YouTube channel with over 900,000 subscribers
 
 <hr />
+
+## EDUCATION
 
 <div class="experience-subheader">
 **University of Virginia**
@@ -64,11 +80,3 @@
 *May 2018*
 *Charlottesville, VA*
 </div>
-
-## SKILLS
-
-<hr />
-
-**Front End**: React, Typescript;
-**Backend**: Node.js, Java, .NET;
-**Tools**: Docker, AWS;
