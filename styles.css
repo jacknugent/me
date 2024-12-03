@@ -145,7 +145,7 @@ body.resume hr {
   background: transparent;
   width: 100%;
   border: none;
-  border-top: solid 1px #01021e57;
+  border-top: solid 1.5px #01021e57;
 }
 
 /* Paragraphs and lists */
@@ -168,7 +168,7 @@ body.resume strong {
 
 .resume-subheader {
   display: flex;
-  margin-bottom: .25rem;
+  margin-bottom: 0.25rem;
 }
 
 @media (max-width: 600px) {
