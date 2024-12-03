@@ -168,7 +168,7 @@ body.resume strong {
 
 .resume-subheader {
   display: flex;
-  margin-bottom: .5rem;
+  margin-bottom: .25rem;
 }
 
 @media (max-width: 600px) {
