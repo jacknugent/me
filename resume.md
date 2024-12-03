@@ -50,7 +50,7 @@
 *Washington, DC*
 </div>
 
-- Rewrote Front-End for Climate Changemakers Act, an accessible way to conduct informed climate correspondence with your Members of Congress
+- Rewrote front-end for Climate Changemakers Act, an accessible way to conduct informed climate correspondence with your Members of Congress
 
 <div class="experience-subheader">
 **CapTech Consulting**
