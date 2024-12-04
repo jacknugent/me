@@ -37,6 +37,12 @@ But to explain how six neighbors organized on a single floor, we have to look at
 
 In November 2024, Congresswoman Alexandria Ocasio-Cortez
 
+On my hall, we found what we had in common: we wanted to brighten up our dreary hallway. I‘m sure everyone agreed to it for slightly different reasons – it was Karim‘s idea, and I know he expressly wanted to make the hallway a friendly, neighborly place, but maybe others simply said yes to be agreeable, or to open up the hallway for future communal activities, like playing fetch with a dog on a cold, winter day (which I am all for, by the way).
+
+Honestly, I have so few complaints about the building. It‘s rent-controlled, and our building manager Joe lives on the premise, and I have _never_ had an issue getting something fixed or addressed. Joe is genuinely great.
+
+But I do wish I had more say in how it operates. I‘d like to know when units are vacant, and I want our front courtyard to have benches and tables. I also want clearer guidelines on renovation policies, like when I can get new carpets or paint.
+
 ## Step 3: Organize Your Workplace
 
 People support a union (decorating a hallway), but there are fewer unions than ever

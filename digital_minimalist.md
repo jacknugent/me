@@ -37,10 +37,26 @@ I use SelfControl to block Reddit/YouTube whenever I feel like I'm on them too m
 - Use [old reddit](https://old.reddit.com/) layout
 - [Delete my watch history on YouTube](https://support.google.com/youtubemusic/answer/6364666?hl=en), which completely disables recommendations.
 
+Next up - create an RSS Feed for myself that will deprecate the need to go on Reddit or YouTube.
+
 ## Making My Mac Boring
+
+My goal - by default, my Mac is a blank, black screen. That means:
+
+- Hide the top bar by default
+- Hide the Dock
+- No apps/files on Desktop
+- Black screensaver
+- No notifications flashing on the screen _except_ time-sensitive meetings and messages.
+
+With notifications, I like to start with none, then add back what I need. That makes each notification a choice.
 
 ## Making My IPhone Boring
 
 ## The Grayscale Connundrum
 
+Apparently Grayscale reduces engagement. In my experience, I just turn it back to color over time. My compromise is to such a _little_ bit of color from the screen instead.
+
 ## Buying a Flip Phone and Giving Up
+
+It's too hard. I need maps and taxi-calling-apps.
