@@ -19,15 +19,15 @@ This clause, quite reasonably, protects Tenants from unilaterally making an apar
 
 I‘m sure most residents would enjoy communally decorated hallways. But almost none have them, because A) Tenants do not know their Neighbors well enough to casually plan decorations, and B) who is going to go door-knocking for something so trivial?
 
-The decorations themselves are not a big deal. The big deal is what their rarity represents: our world not built for communal actions. The challenges exist not just in legal agreeents, but in physical design. In _Happy City_, author Charles Montgomery discusses how conventional apartment layouts aren't conducive to casual chatter:
+The decorations themselves are not a big deal. The big deal is what their rarity represents: our world is not built for communal actions. The challenges exist not just in legal agreeents, but in physical design. In _Happy City_, author Charles Montgomery discusses how conventional apartment layouts aren't conducive to casual chatter:
 
     The problem was that the long-corridor design made it almost impossible for them to choose whom they bumped into and how often. There was no in-between space. You were either in your room or out in the public zone of the hallway.
 
-We've all felt this – the awkward, timeboxed elevator ride, a means of transporation not for socializing. Small-talk at best, assuming no headphones in use, and even then, small-talk about what? The end result is recognition, maybe a hello, but nothing more.
+We've all felt this – the awkward, timeboxed elevator ride, a means of transporation, not for socializing. Small-talk at best, assuming no headphones in use, and even then, small-talk about what? The end result is recognition, maybe a hello, but nothing more.
 
-To put it another way, we are not Neighbors, but Tenants. Instead of people living next door to other people, we are people occupying land from a landlord.
+To put it another way, we are not Neighbors, but Tenants. Instead of people living next door to other people, we are individuals occupying land from a landlord.
 
-So on the surface, hallway decorations are no big deal. But taking it apart, it's kind of a miracle. Decorating an apartment hallway is a small but radical reimaging of the built environment, overcoming legal, physical, and cultural hurdles to do so.
+So on the surface, hallway decorations are no big deal. But when looking at what it requires, it's kind of a miracle. Decorating an apartment hallway is a small but radical reimaging of the built environment, overcoming legal, physical, and cultural hurdles to do so.
 
 So how did we do it? In short, we organized.
 
