@@ -1,6 +1,8 @@
 # Digital Minimalism
 
-Last updated: 11.17.2024
+Last updated: 12.13.2024
+
+![iOS screentime showing 1h 3m](digital_minimalism.jpg)
 
 I identify as a Digital Minimalist. I found the term after reading “How to Break Up With Your Smartphone” by Catherine Price, which inspired me to search online for other techniques to reduce my screentime. From there, I found the [/r/DigitalMinimalism](https://www.reddit.com/r/digitialminimalism) subreddit.
 

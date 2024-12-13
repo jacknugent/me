@@ -25,7 +25,7 @@
 *Washington, DC*
 </div>
 
-- **Architected full-stack scalable solutions** for in-house email-sending provider, processing 7M+ daily emails:
+- **Implemented full-stack scalable solutions** for in-house email-sending provider, processing 7M+ daily emails:
   - Rearchitected **Node.js** email-personalization backend, reducing codebase by 25% and integrating with **AWS** and **MongoDb**, saving $100k annually through new sending architecture.
   - Standardized best practices across **Java** and **React** apps, implementing Dependency Injection, hooks, and encapsulation.
 - **Optimized infrastructure**, right-sizing EC2 instances to save $60k annually and automating **Docker** deployments for improved velocity.
