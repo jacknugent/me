@@ -15,7 +15,7 @@ Social circles
 - Stoney‘s on P Trivia Group: David, Jake, Emily, Biz, Slayla, Brown, Will, Dillon, Chris, Jack-Jack
 - 8th Floor Hall: Karim, Priya, Diego, Cameron, Clarisse, Lloyd
   Media consumption
-- [Very little on my phone](./digital_minimalist.html)
+- [Very little on my phone](./digital_minimalist)
 - f
   Gatherings
 
