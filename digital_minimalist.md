@@ -57,6 +57,6 @@ Similar to my Mac:
 
 Apparently Grayscale reduces engagement. In my experience, I just turn it back to color over time. My compromise is to such a _little_ bit of color from the screen instead.
 
-## Buying a Flip Phone and Giving Up
+## Buying a Flip Phone
 
-It's too hard. I need maps, Signal, WhatsApp, and taxi-calling-apps.
+Next step!!!
