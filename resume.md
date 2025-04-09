@@ -61,7 +61,7 @@
 
 - Led website front-end implementations in React and Angular.
 - Rewrote several websites including a recruiting website, state agency website, and payment tracking service.
-- Replaced monolithic WordPress solution with modernized Headless WordPress, Gatsby, GitLab solution.
+- Modernized legacy WordPress platform using Headless WordPress and Gatsby improving performance.
 
 <hr />
 
