@@ -29,7 +29,7 @@
   - Rearchitected **Node.js** email-personalization backend, reducing codebase by 50% and integrating with **AWS** and **MongoDb**, cutting infrastructure costs by $100k/year.
   - Standardized best practices across **Java**, **Node**, and **React** solutions, implementing Dependency Injection, hooks, and encapsulation.
   - **Proposed scalable architecture plans**, writing technical docs with diagrams and cost projections, and presented the vision to the broader engineering org to drive alignment and execution.
-- Led architectural planning and cost optimization, designing systems that reduced operational overhead and improved scalability; streamlining email send processing to save $17.8k/year in AWS and MongoDB costs.
+- Led architectural planning and cost optimization, designing systems that reduced operational overhead and improved scalability; streamlining email send processing to save $17.8k/year in AWS and MongoDb costs.
 - Optimized infrastructure by right-sizing EC2 ($60k/year savings), automating Docker deployments, and migrating to serverless.
 
 <div class="experience-subheader">
