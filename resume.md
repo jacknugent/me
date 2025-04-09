@@ -25,12 +25,12 @@
 *Washington, DC*
 </div>
 
-- **Implemented full-stack scalable solutions** for in-house email-sending provider, processing 7M+ daily emails:
-  - Rearchitected **Node.js** email-personalization backend, reducing codebase by 25% and integrating with **AWS** and **MongoDb**, saving $100k annually through new sending architecture.
-  - Standardized best practices across **Java** and **React** apps, implementing Dependency Injection, hooks, and encapsulation.
-- **Optimized infrastructure**, right-sizing EC2 instances to save $60k annually and automating **Docker** deployments for improved velocity.
-- **Introduced serverless architecture**, modernizing analytics tools to reduce complexity and costs.
-- **Led process improvements**, establishing code review protocols, streamlining release workflows, and driving consensus for innovation.
+- **Designed and implemented full-stack scalable solutions** for in-house email-sending provider, processing 7M+ daily emails:
+  - Rearchitected **Node.js** email-personalization backend, reducing codebase by 50% and integrating with **AWS** and **MongoDb**, cutting infrastructure costs by $100k/year.
+  - Standardized best practices across **Java**, **Node**, and **React** solutions, implementing Dependency Injection, hooks, and encapsulation.
+  - **Proposed scalable architecture plans**, writing technical docs with diagrams and cost projections, and presented the vision to the broader engineering org to drive alignment and execution.
+- Led architectural planning and cost optimization, designing systems that reduced operational overhead and improved scalability; streamlining email send processing to save $17.8k/year in AWS and MongoDB costs.
+- Optimized infrastructure by right-sizing EC2 ($60k/year savings), automating Docker deployments, and migrating to serverless.
 
 <div class="experience-subheader">
 **Meso Scale Diagnostics**
@@ -45,12 +45,12 @@
 
 <div class="experience-subheader">
 **Climate Changemakers**
-**Volunteer Engineer **
+**Volunteer Engineer**
 *July 2021 – June 2022*
 *Washington, DC*
 </div>
 
-- Rewrote front-end for Climate Changemakers Act, an accessible way to conduct informed climate correspondence with your Members of Congress
+- Rewrote front-end for Climate Changemakers Act, an accessible way to conduct informed climate correspondence with your Members of Congress.
 
 <div class="experience-subheader">
 **CapTech Consulting**
@@ -60,7 +60,6 @@
 </div>
 
 - Led website front-end implementations in React and Angular.
-- Worked with UI designers to create modern, mobile-responsive applications.
 - Rewrote several websites including a recruiting website, state agency website, and payment tracking service.
 - Replaced monolithic WordPress solution with modernized Headless WordPress, Gatsby, GitLab solution.
 
@@ -68,7 +67,7 @@
 
 ## ACCOMPLISHMENTS
 
-- Creator of movie analysis YouTube channel with over 900,000 subscribers.
+- Creator of a film analysis YouTube channel (900k+ subscribers), analyzing scenes and thematic elements across a wide range of movies.
 
 <hr />
 
