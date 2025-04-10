@@ -25,12 +25,11 @@
 *Washington, DC*
 </div>
 
-- **Designed and implemented full-stack scalable solutions** for in-house email-sending provider, processing 7M+ daily emails:
-  - Rearchitected **Node.js** email-personalization backend, reducing codebase by 50% and integrating with **AWS** and **MongoDb**, cutting infrastructure costs by $100k/year.
-  - Standardized best practices across **Java**, **Node**, and **React** solutions, implementing Dependency Injection, hooks, and encapsulation.
-  - **Proposed scalable architecture plans**, writing technical docs with diagrams and cost projections, and presented the vision to the broader engineering org to drive alignment and execution.
-- Led architectural planning and cost optimization, designing systems that reduced operational overhead and improved scalability; streamlining email send processing to save $17.8k/year in AWS and MongoDb costs.
-- Optimized infrastructure by right-sizing EC2 ($60k/year savings), automating Docker deployments, and migrating to serverless.
+- Designed and implemented full-stack scalable solutions for in-house email-sending provider, processing 7M+ daily emails:
+  - Led **React** frontend modernization across multiple applications, independently delivering large-scale UI features and improvements.
+  - Rearchitected **Node.js** and **Java** email-personalization backends, reducing codebase by 50% and integrating with **AWS** and **MongoDb**, cutting infrastructure costs by $100k/year.
+  - Proposed scalable architecture plans, writing technical docs with diagrams and cost projections, and presented the vision to the broader engineering org to drive alignment and execution.
+- Led architectural and infrastructure optimization initiatives, including right-sizing EC2 instances, migrating to serverless, and streamlining email send processing, reducing AWS and MongoDB costs by over $77k/year.
 
 <div class="experience-subheader">
 **Meso Scale Diagnostics**
@@ -40,7 +39,7 @@
 </div>
 
 - Gathered and implemented requirements for transforming outdated assembly-line Excel applications into React applications.
-- Developed and maintained C# GraphQL schema targeting SQL and MongoDB databases.
+- Developed and maintained C# GraphQL schema targeting SQL and MongoDb databases.
 - Added modern technologies including front-end only architecture, end-to-end JavaScript testing, and Docker containerizing.
 
 <div class="experience-subheader">
