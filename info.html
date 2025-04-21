@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="styles.css" />
+  <title>DC Info</title>
+</head>
+
+<body>
+  <div class="markdown">
+    <section>
+      <h1>Washington, DC Weather</h1>
+      <div id="weather">Loading weather...</div>
+    </section>
+    <section>
+      <h1>Capital Bikeshare: 17th & P St NW</h1>
+      <div id="bikeshare">Loading bikeshare info...</div>
+    </section>
+  </div>
+
+  <script>
+    async function getWeather() {
+      try {
+        const pointRes = await fetch('https://api.weather.gov/points/38.9072,-77.0369');
+        const pointData = await pointRes.json();
+        const forecastUrl = pointData.properties.forecast;
+
+        const forecastRes = await fetch(forecastUrl);
+        const forecastData = await forecastRes.json();
+        const periods = forecastData.properties.periods;
+
+        const now = periods[0];
+        const today = periods.find(p => p.name === "Today") || now;
+        const tonight = periods.find(p => p.name === "Tonight");
+
+        const high = today.temperature;
+        const low = tonight ? tonight.temperature : 'N/A';
+
+        document.getElementById("weather").innerHTML = `
+          <p><strong>${now.name}:</strong> ${now.temperature}°${now.temperatureUnit}</p>
+          <p><strong>High:</strong> ${high}°${now.temperatureUnit}</p>
+          <p><strong>Low:</strong> ${low}°${now.temperatureUnit}</p>
+        `;
+      } catch (err) {
+        document.getElementById("weather").innerText = "Failed to fetch weather data.";
+        console.error(err);
+      }
+    }
+
+    async function getBikeshareData() {
+      try {
+        const infoUrl = 'https://gbfs.lyft.com/gbfs/2.3/dca-cabi/en/station_information.json';
+        const statusUrl = 'https://gbfs.lyft.com/gbfs/2.3/dca-cabi/en/station_status.json';
+
+        const [infoRes, statusRes] = await Promise.all([fetch(infoUrl), fetch(statusUrl)]);
+        const [infoData, statusData] = await Promise.all([infoRes.json(), statusRes.json()]);
+
+        const stationId = "5e828067-2fd6-4168-b150-5409754e734c"; // 17th & P St NW
+        const stationStatus = statusData.data.stations.find(s => s.station_id === stationId);
+
+        if (!stationStatus) {
+          document.getElementById("bikeshare").innerText = "Station status not found.";
+          return;
+        }
+
+        const ebikes = stationStatus.num_ebikes_available ?? 0;
+        const regularBikes = stationStatus.num_bikes_available ?? 0;
+
+        document.getElementById("bikeshare").innerHTML = `
+          <p><strong>Regular Bikes Available:</strong> ${regularBikes}</p>
+          <p><strong>Ebikes Available:</strong> ${ebikes}</p>
+        `;
+      } catch (err) {
+        document.getElementById("bikeshare").innerText = "Failed to fetch bikeshare data.";
+        console.error(err);
+      }
+    }
+
+    getWeather();
+    getBikeshareData();
+  </script>
+</body>
+
+</html>
